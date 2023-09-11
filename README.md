@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malfianp-00
+- 👋 Hi, I’m @malfianp
 - 👀 I’m interested in `data science`
 - 🌱 I’m currently learning `design database` and `machine learning`
 - 💞️ I’m looking to collaborate on ---
